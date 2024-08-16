@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Appunti on Sito di Roberto</title>
+    <link>http://localhost:1313/tags/appunti/</link>
+    <description>Recent content in Appunti on Sito di Roberto</description>
+    <generator>Hugo -- 0.132.2</generator>
+    <language>it-IT</language>
+    <atom:link href="http://localhost:1313/tags/appunti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ciaoo</title>
+      <link>http://localhost:1313/appunti/prova/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/appunti/prova/</guid>
+      <description>cisdiadoabdbadn sda sdasd a sad cvsd</description>
+    </item>
+  </channel>
+</rss>
