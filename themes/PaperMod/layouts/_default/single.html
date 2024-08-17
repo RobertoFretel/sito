@@ -72,10 +72,10 @@
     {{ if gt (len $prevPage) 0 }}
       {{ $prevPage := index $prevPage (sub (len $prevPage) 1) }}
       <a class="nav-button prev" href="{{ $prevPage.Permalink }}" aria-label="Capitolo Precedente">
-        « Capitolo Precedente
+        « Prev.
       </a>
     {{ else }}
-      <span class="nav-button prev disabled">« Capitolo Precedente</span>
+      <span class="nav-button prev disabled">« Prev.</span>
     {{ end }}
 
     <!-- Pulsante per il capitolo successivo -->
@@ -83,10 +83,10 @@
     {{ if gt (len $nextPage) 0 }}
       {{ $nextPage := index $nextPage 0 }}
       <a class="nav-button next" href="{{ $nextPage.Permalink }}" aria-label="Capitolo Successivo">
-        Capitolo Successivo »
+        Next »
       </a>
     {{ else }}
-      <span class="nav-button next disabled">Capitolo Successivo »</span>
+      <span class="nav-button next disabled">Next »</span>
     {{ end }}
   </nav>
 
