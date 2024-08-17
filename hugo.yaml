@@ -21,7 +21,7 @@ params:
   homeInfoParams:
     Title: Sito di Roberto
     Content: >
-      ***Benvenuti nel mio fantastico sito!***: **Appunti** per l'università (ancora devo iniziarla lol), **Post di qualsiasi tipo** sullo sviluppo web ma anche informatica in generale e **Fan Traslation** di una light novel che mi ha preso molto e consiglio a tutti di leggere (la traduzione la sto facendo in spagnolo perché sono anche madrelingua spagnolo)
+      ***Benvenuti nel mio fantastico sito!***: **Appunti** per l'università (ancora devo iniziarla lol), **Post di qualsiasi tipo** sullo sviluppo web ma anche informatica in generale e **Fan Traslation** di una light novel che mi ha preso molto e consiglio a tutti di leggere (la traduzione la sto facendo in spagnolo perché sono anche madrelingua spagnolo).
 
   socialIcons:
     - name: stackoverflow
